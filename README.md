@@ -13,7 +13,7 @@ A pesar de las medidas que han tomado los últimos gabinetes distritales de Bogo
 Por lo cual, existe una preocupacion por parte de los ciclistas, al no tener forma de saber si la ruta que tomarán para llegar a sus trabajos, a la universidad, a sus casas, está contaminada al punto de ser peligroso para ellos, ya que durante un recorrido su salud podria estar en riesgo.
 
 
-## ¿QUE ES BREATHE AND RIDE?
+## ¿Qué es Breathe & Ride?
 
 En Breathe and ride buscamos darte acompañamiento a ti como ciclista en tus rutas diarias, ayudandote a concientizar sobre el aire que respiras con ayuda de diferentes sensores y actuadores, todos estos integrados en una cajita que cabe en tu mano.
 
